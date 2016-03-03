@@ -14,6 +14,8 @@ namespace BlogCodeApp.Controllers
     public class BlogController : Controller
     {
 
+
+
         private BlogCodeAppContext db = new BlogCodeAppContext();
 
         // GET: Blog
